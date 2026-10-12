@@ -61,7 +61,7 @@ mkdir -p ~/.agents/skills
 cp -R skills/srt-audio-review-v4 ~/.agents/skills/
 ```
 
-仓库根目录也提供标准 `plugin.json`，可用于支持该格式的插件加载流程；此仓库发布不代表已上架插件商店。[打包规范](https://developers.openai.com/plugins/build/plugins)
+解压后的项目根目录提供标准 `plugin.json`，可用于支持该格式的插件加载流程；此仓库发布不代表已上架插件商店。[打包规范](https://developers.openai.com/plugins/build/plugins)
 
 ### 3. 初始化本地音频环境
 
