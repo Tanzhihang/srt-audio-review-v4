@@ -1,0 +1,16 @@
+# Local files and generated task evidence
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.cache/
+work/
+outputs/
+*.pt
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.m4a
